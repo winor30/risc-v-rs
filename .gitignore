@@ -1,0 +1,11 @@
+opensbi-riscv32-generic-fw_dynamic.bin
+
+/disk/*
+!/disk/.gitkeep
+*.map
+*.tar
+*.o
+*.elf
+*.bin
+*.log
+*.pcap
